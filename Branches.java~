@@ -112,7 +112,6 @@ public class Branches
 		student.allocate();
 	}
 
-  /*This prints the list of students who are allocated a branch.*/
 	public static void printAllocatedStudents()
 	{
 		System.out.println("Printing allocation list...");
