@@ -1,0 +1,137 @@
+***Running pre diagnostics***
+Removed : f2016591@goa.bits-pilani.ac.in,6.622000,A7,A4,A3,A8,A1,A4
+Removed entries : 1
+***End of pre diagnostics***
+f2016185@goa.bits-pilani.ac.in,9.839000,A7,AA,A3,A8,A4,A1
+f2016791@goa.bits-pilani.ac.in,9.297000,A7,AA,A3,A4,A8,A1
+f2016369@goa.bits-pilani.ac.in,9.108000,A7,AA,A3,A8,A4,A1
+f2016320@goa.bits-pilani.ac.in,9.025000,A7,A4,A3,AA,A8,A1
+f2016550@goa.bits-pilani.ac.in,9.000000,A7,AA,A3,A8,A4,A1
+f2016375@goa.bits-pilani.ac.in,9.000000,A7,AA,A3,A8,A4,A1
+f2016489@goa.bits-pilani.ac.in,8.655000,A7,AA,A3,A8,A4,A1
+f2016298@goa.bits-pilani.ac.in,8.595000,A7,AA,A3,A8,A1,A4
+f2016603@goa.bits-pilani.ac.in,8.541000,A7,AA,A3,A8,A4,A1
+f2016419@goa.bits-pilani.ac.in,8.378000,A7,AA,A3,A8,A4,A1
+f2016246@goa.bits-pilani.ac.in,8.270000,A7,AA,A3,A8,A4,A1
+f2016472@goa.bits-pilani.ac.in,8.216000,A7,AA,A3,A8,A4,A1
+f2016438@goa.bits-pilani.ac.in,8.216000,A7,AA,A3,A8,A4,A1
+f2016511@goa.bits-pilani.ac.in,8.189000,A7,AA,A3,A8,A4,A1
+f2016741@goa.bits-pilani.ac.in,8.189000,A7,AA,A3,A8,A4,A1
+f2016439@goa.bits-pilani.ac.in,8.162000,A7,AA,A3,A8,A1,A4
+f2016435@goa.bits-pilani.ac.in,8.056000,A4,A7,A3,A8,AA,A1
+f2016349@goa.bits-pilani.ac.in,8.027000,A7,AA,A3,A8,A1,A4
+f2016448@goa.bits-pilani.ac.in,8.027000,A7,AA,A3,A8,A4,A1
+f2016566@goa.bits-pilani.ac.in,8.002000,A7,AA,A3,A8,A4,A1
+f2016548@goa.bits-pilani.ac.in,8.000000,A7,AA,A3,A1,A8,A4
+f2016549@goa.bits-pilani.ac.in,7.865000,A7,AA,A3,A4,A8,A1
+f2016347@goa.bits-pilani.ac.in,7.864000,A7,AA,A3,A8,A4,A1
+f2016517@goa.bits-pilani.ac.in,7.760000,A7,AA,A3,A8,A1,A4
+f2016520@goa.bits-pilani.ac.in,7.757000,A7,AA,A3,A8,A1,A4
+f2016357@hyderabad.bits-pilani.ac.in,7.700000,A7,AA,A3,A4,A8,A1
+f2016606@goa.bits-pilani.ac.in,7.650000,AA,A3,A8,A7,A1,A4
+f2016243@goa.bits-pilani.ac.in,7.622000,A7,AA,A3,A8,A1,A4
+f2016382@goa.bits-pilani.ac.in,7.400000,A7,AA,A3,A8,A4,A1
+f2016528@goa.bits-pilani.ac.in,7.340000,A7,AA,A3,A8,A4,A1
+f2016760@goa.bits-pilani.ac.in,7.270000,AA,A3,A8,A4,A7,A1
+f2016589@goa.bits-pilani.ac.in,7.230000,A7,AA,A3,A8,A4,A1
+f2016568@goa.bits-pilani.ac.in,7.180000,A7,AA,A3,A4,A8,A1
+f2016597@goa.bits-pilani.ac.in,7.150000,AA,A3,A8,A7,A4,A1
+f2016451@goa.bits-pilani.ac.in,7.080000,A7,AA,A3,A8,A4,A1
+f2016634@goa.bits-pilani.ac.in,7.058000,A7,AA,A3,A8,A4,A1
+f2016442@goa.bits-pilani.ac.in,6.949000,A7,AA,A3,A8,A4,A1
+f2016601@goa.bits-pilani.ac.in,6.914000,A7,AA,A3,A8,A4,A1
+f2016487@goa.bits-pilani.ac.in,6.897000,A7,AA,A3,A8,A4,A1
+f2016470@goa.bits-pilani.ac.in,6.700000,A7,AA,A3,A8,A4,A1
+f2016564@goa.bits-pilani.ac.in,6.597000,A7,AA,A3,A8,A4,A1
+f2016598@goa.bits-pilani.ac.in,6.595000,A7,A4,AA,A3,A8,A1
+f2016630@goa.bits-pilani.ac.in,6.572000,AA,A3,A8,A4,A7,A1
+f2016592@goa.bits-pilani.ac.in,6.512000,A7,AA,A3,A8,A4,A1
+f2016360@goa.bits-pilani.ac.in,6.500000,A7,AA,A3,A8,A4,A1
+f2016620@goa.bits-pilani.ac.in,6.435000,A7,AA,A3,A8,A4,A1
+f2016257@goa.bits-pilani.ac.in,6.432000,A7,AA,A3,A8,A4,A1
+f2016613@goa.bits-pilani.ac.in,6.430000,A7,AA,A3,A8,A4,A1
+f2016562@goa.bits-pilani.ac.in,6.402000,A7,A4,AA,A3,A8,A1
+f2014857@goa.bits-pilani.ac.in,6.220000,A4,A1,A3,A8,A7,AA
+f2016737@goa.bits-pilani.ac.in,6.216000,A7,AA,A3,A8,A4,A1
+f2016612@goa.bits-pilani.ac.in,6.200000,A7,AA,A3,A8,A4,A1
+f2016631@goa.bits-pilani.ac.in,6.180000,A3,A8,AA,A7,A4,A1
+f2016274@goa.bits-pilani.ac.in,6.160000,A7,A4,A1,AA,A3,A8
+f2016768@goa.bits-pilani.ac.in,6.050000,A7,AA,A3,A8,A4,A1
+f2016753@goa.bits-pilani.ac.in,5.800000,A7,AA,A3,A8,A4,A1
+f2016627@goa.bits-pilani.ac.in,5.400000,A1,A7,AA,A8,A3,A4
+Printing allocation list...
+Students allocated in A7 are 10
+f2016185@goa.bits-pilani.ac.in : 9.839
+f2016791@goa.bits-pilani.ac.in : 9.297
+f2016369@goa.bits-pilani.ac.in : 9.108
+f2016320@goa.bits-pilani.ac.in : 9.025
+f2016550@goa.bits-pilani.ac.in : 9.0
+f2016375@goa.bits-pilani.ac.in : 9.0
+f2016489@goa.bits-pilani.ac.in : 8.655
+f2016298@goa.bits-pilani.ac.in : 8.595
+f2016603@goa.bits-pilani.ac.in : 8.541
+f2016419@goa.bits-pilani.ac.in : 8.378
+
+Students allocated in AA are 10
+f2016246@goa.bits-pilani.ac.in : 8.27
+f2016472@goa.bits-pilani.ac.in : 8.216
+f2016438@goa.bits-pilani.ac.in : 8.216
+f2016511@goa.bits-pilani.ac.in : 8.189
+f2016741@goa.bits-pilani.ac.in : 8.189
+f2016439@goa.bits-pilani.ac.in : 8.162
+f2016349@goa.bits-pilani.ac.in : 8.027
+f2016448@goa.bits-pilani.ac.in : 8.027
+f2016566@goa.bits-pilani.ac.in : 8.002
+f2016548@goa.bits-pilani.ac.in : 8.0
+
+Students allocated in A3 are 10
+f2016549@goa.bits-pilani.ac.in : 7.865
+f2016347@goa.bits-pilani.ac.in : 7.864
+f2016517@goa.bits-pilani.ac.in : 7.76
+f2016520@goa.bits-pilani.ac.in : 7.757
+f2016357@hyderabad.bits-pilani.ac.in : 7.7
+f2016606@goa.bits-pilani.ac.in : 7.65
+f2016243@goa.bits-pilani.ac.in : 7.622
+f2016382@goa.bits-pilani.ac.in : 7.4
+f2016528@goa.bits-pilani.ac.in : 7.34
+f2016760@goa.bits-pilani.ac.in : 7.27
+
+Students allocated in A8 are 10
+f2016589@goa.bits-pilani.ac.in : 7.23
+f2016597@goa.bits-pilani.ac.in : 7.15
+f2016451@goa.bits-pilani.ac.in : 7.08
+f2016634@goa.bits-pilani.ac.in : 7.058
+f2016442@goa.bits-pilani.ac.in : 6.949
+f2016601@goa.bits-pilani.ac.in : 6.914
+f2016487@goa.bits-pilani.ac.in : 6.897
+f2016470@goa.bits-pilani.ac.in : 6.7
+f2016564@goa.bits-pilani.ac.in : 6.597
+f2016630@goa.bits-pilani.ac.in : 6.572
+
+Students allocated in A4 are 10
+f2016435@goa.bits-pilani.ac.in : 8.056
+f2016568@goa.bits-pilani.ac.in : 7.18
+f2016598@goa.bits-pilani.ac.in : 6.595
+f2016592@goa.bits-pilani.ac.in : 6.512
+f2016360@goa.bits-pilani.ac.in : 6.5
+f2016620@goa.bits-pilani.ac.in : 6.435
+f2016257@goa.bits-pilani.ac.in : 6.432
+f2016613@goa.bits-pilani.ac.in : 6.43
+f2016562@goa.bits-pilani.ac.in : 6.402
+f2014857@goa.bits-pilani.ac.in : 6.22
+
+Students allocated in A1 are 7
+f2016737@goa.bits-pilani.ac.in : 6.216
+f2016612@goa.bits-pilani.ac.in : 6.2
+f2016631@goa.bits-pilani.ac.in : 6.18
+f2016274@goa.bits-pilani.ac.in : 6.16
+f2016768@goa.bits-pilani.ac.in : 6.05
+f2016753@goa.bits-pilani.ac.in : 5.8
+f2016627@goa.bits-pilani.ac.in : 5.4
+***RESULTS FOR CUT OFF***
+A7 : 8.378
+AA : 8.0
+A3 : 7.27
+A8 : 6.572
+A4 : 6.22
+A1 : 5.4
