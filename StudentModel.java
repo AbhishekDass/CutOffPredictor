@@ -1,3 +1,5 @@
+/*A class model representing a student with its important details*/
+
 import java.util.Comparator;
 
 public class StudentModel 
