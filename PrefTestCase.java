@@ -1,3 +1,5 @@
+/*This file generates randomized test cases for Predicor.java to work upon.*/
+
 import java.io.*;
 import edu.princeton.cs.algs4.StdRandom;
 
